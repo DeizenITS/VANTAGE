@@ -12,7 +12,7 @@ VANTAGE is a Windows optimization and customization utility. Its primary focus i
 
 ---
 
-## Features — VANTAGE 1.0.0 Beta
+## Features — VANTAGE 0.12.0 Beta
 
 ### 1. System Analysis
 
