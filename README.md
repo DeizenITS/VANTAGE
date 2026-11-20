@@ -18,7 +18,7 @@ VANTAGE is a Windows optimization and customization utility. Its primary focus i
 
 Comprehensive system analysis, problem detection, hardware health assessment, and recommendations to improve overall performance.
 
-![System Analysis](./Assets/ANALYS.PNG)
+![Analys](./Assets/ANALYS.PNG)
 
 ### 2. My Games
 
